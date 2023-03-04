@@ -1,5 +1,10 @@
 # Conversões de Base
  Código que permite transformar um número de uma base a outra
+ 
+ De | Para
+ ---|---
+ Decimal | Binário
+ Binário | Decimal
 
  __Feito por:__ Lucas Gabriel Pereira Pestana
  
